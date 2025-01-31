@@ -1,4 +1,4 @@
-Feature:( henry )Navigate to contact page 
+Feature: Navigate to contact page (Demo Certif)
 
   Scenario: test
     Given User is on the SLIB home page
